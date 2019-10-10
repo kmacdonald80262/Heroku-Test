@@ -1,17 +1,38 @@
-# Node and Express for HW1
+# Timberlands New Eco-Boot
 
-You can use this example file as your starting point, if you're having trouble with the build files in class.
+**Welcome to the Timberlands Website**<br><br>
 
-Clone the project wherever you like. CD into the project, and NPM install
+This is a student project; creating a new Timberlands boot, it is a new<br>
+eco-friendly boot that is waterproof and has donations associated with the<br>
+purchase of a pair of boots<br><br>
 
-Run NPM start, or node app - either way, you should get an instance running on localhost:3000
+**Installation/Usage**<br><br>
 
-To compile the SASS you can write **sass --watch sass:public/css --style compressed** in a terminal window. That will compile all of your sass to the public/css folder
+git init<br>
 
-Remember - you don't have to include the /public part of your static asset resource paths. css/main.css or images/name_of_image is fine.
+Clone this repository<br>
 
-We're just sending index.html back via the main route, so build your project in that file as before and you should be good to go!
+git clone https://github.com/kmacdonald80262/Heroku-Test<br>
 
-Remember to add the node.js buildpack on Heroku, and include the live Heroku link with your submission.
+Go into the repository<br>
 
-Cheers!
+cd Heroku-Test<br>
+
+Then you can check out my website for the new Timberlands Eco-Friendly Terra Boot<br><br>
+
+
+
+**Built With**<br>
+
+HTML5<br>
+CSS, CSS3 <br>
+JavaScript<br>
+SASS<br>
+Node JS<br>
+Express<br><br>
+
+
+**Authors**<br>
+[Kathleen MacDonald](https://github.com/kmacdonald80262)-Developer and Designer
+
+
